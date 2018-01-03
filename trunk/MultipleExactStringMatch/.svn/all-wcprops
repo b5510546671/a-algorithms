@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/Readme.txt
+END
+ExactStringSearch.sln
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/ExactStringSearch.sln
+END
+ExactStringSearch.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/ExactStringSearch.csproj.user
+END
+AhoCorasickStringMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/AhoCorasickStringMatch.cs
+END
+StringSearchResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/StringSearchResult.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/AssemblyInfo.cs
+END
+PrecisionTimer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/PrecisionTimer.cs
+END
+ExactStringSearch.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/ExactStringSearch.csproj
+END
+IStringSearchAlgorithm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/IStringSearchAlgorithm.cs
+END
+TestApp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/TestApp.cs
+END
+HashingStringMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/MultipleExactStringMatch/HashingStringMatch.cs
+END
